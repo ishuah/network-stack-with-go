@@ -1,1 +1,1 @@
-go build -o udp && sudo setcap cap_net_raw=ep udp
+go build -o gonetstack && sudo setcap cap_net_raw=ep gonetstack
