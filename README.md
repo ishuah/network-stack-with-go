@@ -2,6 +2,6 @@
 
 Raw network programming in Go.
 
-Current build logs network traffic.
+Current build just logs network traffic.
 
 
